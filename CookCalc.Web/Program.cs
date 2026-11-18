@@ -24,3 +24,7 @@ catch (Exception exception)
 {
     logger.LogCritical(exception, "Server start failed");
 }
+finally
+{
+    logger.LogInformation("Server stopped");
+}
