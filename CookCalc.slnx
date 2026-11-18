@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Common/">
+    <Project Path="Common/CookCalc.Common.Database/CookCalc.Common.Database.csproj" Id="b3e07a2d-9af0-463d-b4a6-f2817fb78d24" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="CookCalc.Web/CookCalc.Web.csproj" Id="5cbee640-8dcc-42ed-9780-d9ce9dd9b87d" />
+</Solution>
